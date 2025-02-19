@@ -58,5 +58,3 @@ The data used for this analysis was sourced from IPL 2021-2023 match records.
 ## Conclusion
 This analysis provides valuable insights into player performance, team statistics, and predictions for the upcoming IPL season. The findings aim to assist teams, analysts, and enthusiasts in understanding key trends and making informed decisions.
 
-## Contact Information
-For any questions or further information, please contact [LinkedIn](www.linkedin.com/in/anuragdhawade29)
